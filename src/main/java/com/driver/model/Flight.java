@@ -76,5 +76,4 @@ public class Flight {
     public void setDuration(double duration) {
         this.duration = duration;
     }
-
 }
